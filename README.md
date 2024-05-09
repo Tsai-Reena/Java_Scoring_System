@@ -43,7 +43,9 @@
 
 **以上函示中的傳入參數請勿修改或刪除，但可新增，函數回傳型別也可自行更改。未按規定方式實作將予以扣分。**
 
-**<img src=".\images\img4.png" align="left" />**
+**<img src=".\images\img4.png"/>**  
+
+
 
 
 
@@ -53,7 +55,7 @@
 
 - **在輸入的資料夾底下，存放一連串的txt檔案，代表每個拼圖長相，其中資料夾結構如下所示(假設資料夾名稱為puzzles)**
 
-  **<img src=".\images\img5.png" align="left" />**
+  **<img src=".\images\img5.png"/>**
 
 
 
@@ -70,16 +72,16 @@
 
 #### **範例**
 
-**![](.\images\img6.png)**
+**<img src=".\images\img6.png"/>**
 
-**![](.\images\img7.png)**
+**<img src=".\images\img7.png"/>**
 
 
 
 #### **範例說明**
-| **Sample Content in Output 1** | ![](.\images\img8.png) |
+| **Sample Content in Output 1** | <img src=".\images\img8.png"/> |
 | ------------------------------ | ---------------------- |
-| **Sample Content in Output 2** | ![](.\images\img9.png) |
+| **Sample Content in Output 2** | <img src=".\images\img9.png"/> |
 
 
 
